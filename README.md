@@ -119,11 +119,11 @@ void IRPAIR()
 
 ## Output  :
 ## WITH OBJECT
-<img src="https://github.com/R-Udayakumar/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118708024/1ef8072b-74de-4526-9528-be5f3d925108" width=500 height=500>
+<img src="https://github.com/R-Udayakumar/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118708024/2cffd870-e272-4b7e-b1db-befcf41f86cb" width=550 height=550>
 
 ## WITHOUT OBJECT
 
-<img src="https://github.com/R-Udayakumar/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118708024/4bfd01d9-9694-47f3-9a25-3595bd032e9d)" width=500 height=500>
+<img src="https://github.com/R-Udayakumar/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118708024/4bfd01d9-9694-47f3-9a25-3595bd032e9d)" width=550 height=550>
 
 
  
